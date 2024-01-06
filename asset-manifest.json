@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mhizbrandy-session/static/css/main.1319e149.css",
+    "main.js": "/mhizbrandy-session/static/js/main.50dec90b.js",
+    "static/css/72.31c4de37.chunk.css": "/mhizbrandy-session/static/css/72.31c4de37.chunk.css",
+    "static/js/72.8ebe7ae5.chunk.js": "/mhizbrandy-session/static/js/72.8ebe7ae5.chunk.js",
+    "static/js/787.4891ebcd.chunk.js": "/mhizbrandy-session/static/js/787.4891ebcd.chunk.js",
+    "static/js/484.1b3b8ae0.chunk.js": "/mhizbrandy-session/static/js/484.1b3b8ae0.chunk.js",
+    "index.html": "/mhizbrandy-session/index.html",
+    "main.1319e149.css.map": "/mhizbrandy-session/static/css/main.1319e149.css.map",
+    "main.50dec90b.js.map": "/mhizbrandy-session/static/js/main.50dec90b.js.map",
+    "72.31c4de37.chunk.css.map": "/mhizbrandy-session/static/css/72.31c4de37.chunk.css.map",
+    "72.8ebe7ae5.chunk.js.map": "/mhizbrandy-session/static/js/72.8ebe7ae5.chunk.js.map",
+    "787.4891ebcd.chunk.js.map": "/mhizbrandy-session/static/js/787.4891ebcd.chunk.js.map",
+    "484.1b3b8ae0.chunk.js.map": "/mhizbrandy-session/static/js/484.1b3b8ae0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1319e149.css",
+    "static/js/main.50dec90b.js"
+  ]
+}
