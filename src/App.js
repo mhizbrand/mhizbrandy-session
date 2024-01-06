@@ -5,7 +5,7 @@ import $ from 'jquery';
 import Preloader from "./Preloader/Preloader";
 import { BiSolidUser, BiSolidLockAlt } from "react-icons/bi";
 
-// edited first letter
+// edited first letter kkdd
 
 const Default = ()=>{
 
